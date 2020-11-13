@@ -15,3 +15,4 @@ git push origin master
 #### update project when you change some content:
 git push origin master (if this command don't woking you can rewrite = git push origin master -f)
 
+#### You go to to https://www.atlassian.com/git/tutorials/syncing to know more infomation
