@@ -4,7 +4,7 @@
 #### push project:
 git init
 
-git remote add origin master your_link_in_github(ex:)
+git remote add origin master your_url(ex:https://github.com/anchelsea/template-test.git)
 
 git add .
 
